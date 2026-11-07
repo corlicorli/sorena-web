@@ -1,2 +1,7 @@
 hero.jpg / hero-1200.jpg: generated in Paper (Nano Banana Pro), file "Health app — Mockups", page "Website · hero images", option F "Danish coast dunes dawn" (foreground cut-out: "F cutout · dune and grass only"), 2026-11-02.
 sky.jpg: top 36% of the same dunes image (sky only), for the footer.
+
+space-hero.jpg / space-hero-1280.jpg: NASA, ISS Expedition 71 crew, iss071e077638 (orbital sunrise off Sumatra, 2024-05-14), https://images.nasa.gov/details/iss071e077638. Cropped and resized.
+space-footer.jpg / space-footer-1280.jpg: NASA, ISS Expedition 62 crew, iss062e103874 (airglow and city lights, 2020-03-20), https://images.nasa.gov/details/iss062e103874. Cropped and resized.
+NASA imagery is generally public domain; no NASA logo or endorsement is implied. Originals and the other candidates: design/website-space/ (SOURCES.md).
+hero.jpg, hero-1200.jpg and sky.jpg (dunes) are no longer used.

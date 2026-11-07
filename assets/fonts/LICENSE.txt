@@ -1,2 +1,2 @@
-Cormorant Garamond (Christian Thalmann) and Figtree (Erik Kennedy) are licensed under the SIL Open Font License 1.1: https://openfontlicense.org
+Cormorant Garamond (Christian Thalmann), Figtree (Erik Kennedy) and Inter Tight (The Inter Project Authors) are licensed under the SIL Open Font License 1.1: https://openfontlicense.org
 Files from the @fontsource packages (latin subset).
